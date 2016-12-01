@@ -1,6 +1,6 @@
 {
   "name": "PROSIC",
   "tagline": "Postprocessing for Somatic Mutation Calling",
-  "body": "PROSIC is a caller for somatic insertions and deletions. Using a latent variable model, it enables to assess the significance of somatic variants in terms of posterior probabilities.\r\n\r\nFor installation and usage, see the [README](https://github.com/PROSIC/prosic).\r\n\r\n# Author\r\n[Louis Dijkstra](https://github.com/louisdijkstra)",
+  "body": "PROSIC is a caller for somatic insertions and deletions. Using a latent variable model, it enables to assess the significance of somatic variants in terms of posterior probabilities.\r\n\r\nFor installation and usage, see the [README](https://github.com/PROSIC/prosic2).\r\n\r\n# Author\r\n[Louis Dijkstra](https://github.com/louisdijkstra)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
